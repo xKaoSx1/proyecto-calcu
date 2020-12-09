@@ -27,7 +27,7 @@ namespace proyecto_calcu
 
                     {
                         Console.Clear(); //borra
-                        // \n salto de pagina siempre con" + "para unirlo
+                        // \n salto de pagina siempre con" + "para concatenar
                         Console.WriteLine("*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*CALCULADORA*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* \n" + " \n" + "*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*Elija una opción:*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* \n" + " \n" + "1. SUMA.*.*.*.*.*.*.*. \n" + " \n" + "2. RESTA.*.*.*.*.*.*. \n" + " \n" + "3. MULTIPLICACIÓN.*.* \n" + " \n" + "4. DIVISIÓN.*.*.*.*.* \n" + " \n");
                         string opcion = Console.ReadLine();
                         Console.WriteLine("Indique un numero: ");
@@ -64,6 +64,7 @@ namespace proyecto_calcu
                 
                 Console.WriteLine("Ha ocurrido un error inesperado. Por favor, contacte con soporte. " + error.Message); //error.message CORTO
                 Console.ReadLine();
+               
             }
             
             
