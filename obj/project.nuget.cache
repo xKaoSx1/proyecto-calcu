@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPNs3977ZCj9FHDsBtxn6ZHMCpF/egRAeDuf+fjj3kheFyJHQJPUmEr3Qk2Xsntg5N0cb+BIiECqxATJddudng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\Escritorio\\calcu Diego\\proyecto calcu\\proyecto calcu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.9\\microsoft.netcore.app.host.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
